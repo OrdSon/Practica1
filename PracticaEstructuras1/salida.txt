@@ -1,0 +1,28 @@
+Apuesta{nombre=pepe, monto=123.2, posiciones=[I@352e5ab0, rechazo=false, punteo=55}
+Apuesta{nombre=mario, monto=662.0, posiciones=[I@9ca79bc, rechazo=false, punteo=55}
+Apuesta{nombre=juan, monto=663.0, posiciones=[I@7e483596, rechazo=false, punteo=55}
+Apuesta{nombre=rocio, monto=963.2, posiciones=[I@5fa2901, rechazo=false, punteo=55}
+Apuesta{nombre=abelardo, monto=147.2, posiciones=[I@42c608d4, rechazo=false, punteo=55}
+Apuesta{nombre=stewart, monto=323.2, posiciones=[I@457ee53c, rechazo=false, punteo=55}
+Apuesta{nombre=megot, monto=696.2, posiciones=[I@65fb7c0e, rechazo=false, punteo=7}
+
+Apuesta{nombre=pepe, monto=123.2, posiciones=[I@35cbbdf, rechazo=false, punteo=55}
+Apuesta{nombre=mario, monto=662.0, posiciones=[I@2508598a, rechazo=false, punteo=55}
+Apuesta{nombre=juan, monto=663.0, posiciones=[I@100d1313, rechazo=false, punteo=55}
+Apuesta{nombre=rocio, monto=963.2, posiciones=[I@5a4a9a2d, rechazo=false, punteo=55}
+Apuesta{nombre=abelardo, monto=147.2, posiciones=[I@3c2e50f8, rechazo=false, punteo=55}
+Apuesta{nombre=stewart, monto=323.2, posiciones=[I@54ff7284, rechazo=false, punteo=55}
+Apuesta{nombre=megot, monto=696.2, posiciones=[I@7340473b, rechazo=false, punteo=7}
+
+Apuesta{nombre=pepe, monto=123.2, posiciones=[I@4c811824, rechazo=false, punteo=55}
+Apuesta{nombre=mario, monto=662.0, posiciones=[I@34bea358, rechazo=false, punteo=55}
+Apuesta{nombre=juan, monto=663.0, posiciones=[I@793dfb50, rechazo=false, punteo=55}
+Apuesta{nombre=rocio, monto=963.2, posiciones=[I@7f5bc1ad, rechazo=false, punteo=55}
+Apuesta{nombre=abelardo, monto=147.2, posiciones=[I@3bdfb65a, rechazo=false, punteo=55}
+Apuesta{nombre=stewart, monto=323.2, posiciones=[I@2234b8be, rechazo=false, punteo=55}
+Apuesta{nombre=megot, monto=696.2, posiciones=[I@116709db, rechazo=false, punteo=7}
+
+Apuesta{nombre=miko, monto=453.2, posiciones=[I@6ccbe576, rechazo=true, punteo=0}
+Apuesta{nombre=lelo, monto=654.2, posiciones=[I@4d3c07eb, rechazo=true, punteo=0}
+Apuesta{nombre=oli, monto=789.2, posiciones=[I@b170570, rechazo=true, punteo=0}
+
